@@ -1,0 +1,8 @@
+* Belajar Membangun RestAPI dengan Spring Boot
+* RestAPI Validation dengan Spring Boot
+* Relasi Entity di JPA & Spring Boot
+
+
+bugs
+=========================
+-> masih ada error di penambahan supplier ke product, endpoint http://localhost:8081/api/products/4 (POST)

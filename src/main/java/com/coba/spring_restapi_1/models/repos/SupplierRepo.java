@@ -1,0 +1,9 @@
+package com.coba.spring_restapi_1.models.repos;
+
+import com.coba.spring_restapi_1.models.entities.Supplier;
+
+import org.springframework.data.repository.CrudRepository;
+
+public interface SupplierRepo extends CrudRepository<Supplier, Long> {
+    
+}
